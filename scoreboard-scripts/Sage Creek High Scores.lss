@@ -7,8 +7,9 @@
 ; Written by Kirk Sigel
 ;
 ; script for microtab16, 1 line, 9 characters
-; last modified by Todd Chamoy 12 Feb 02
-; pages results instead of scrolling
+; last modified by Todd Chamoy 12 Feb 2002
+; last edited by Joey Babcock 26 Jul 2016
+; This script is like the one provided but it has the tenths place actually running
 ;
 ; Notes:
 ;  + Empty lines and lines that start with a semicolon are ignored.
