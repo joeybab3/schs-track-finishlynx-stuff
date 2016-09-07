@@ -125,7 +125,7 @@
 ;
 ; display " mm:ss.d"
 ;\01\=0\X0\=2\1bAS00 %12.12s\B1\L8\R0 \03\L0\U2\F2\R0\X\7f\&2\U0\O2
-\01\X0\=2\1bAS00 %12.12s\B1\L8\B3\R0 \03\L0\U2\F2\R0\X\7f\&2\U0\O2
+\01\=0\X0\=2\1bAS00 %12.12s\B1\L8\B3\R0 \03\L0\U2\F2\R0\X\7f\&2\U0\O2
 
 ;;TimeStopped
 ; This is sent when the time is stopped by a beam break.
